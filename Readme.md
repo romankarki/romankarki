@@ -15,12 +15,6 @@ Full-stack engineer building scalable systems. Shipping production-ready tools.
 
 ---
 
-## 📊 Contribution Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/roman-karki)
-
----
-
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/romankarki](https://linkedin.com/in/romankarki)
