@@ -14,7 +14,7 @@ Full-stack engineer building scalable systems. Shipping production-ready tools.
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/inin/roman-karki-b71003184/](https://www.linkedin.com/in/roman-karki-b71003184/)
+- **LinkedIn:** [linkedin.com/in/roman-karki-b71003184/](https://www.linkedin.com/in/roman-karki-b71003184/)
 - **Email:** romnkrki@gmail.com
 - **GitHub:** [@romankarki](https://github.com/romankarki)
 
