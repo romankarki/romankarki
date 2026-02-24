@@ -8,7 +8,7 @@ Full-stack engineer building scalable systems. Shipping production-ready tools.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[void](https://github.com/romankarki/void)** | A terminal app designed for Windows and VSCode | Terminal, Windows, VSCode |
+| **[void](https://github.com/romankarki/void)** | A terminal app designed for Windows and VSCode | Terminal, Go, sqlite |
 
 ---
 
