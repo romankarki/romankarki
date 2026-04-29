@@ -2,6 +2,8 @@
 
 Full-stack engineer building scalable systems. Shipping production-ready tools.
 
+Incoming @ Tesla, Summer 2026 Software Engineer Intern.
+
 ---
 
 ## 🛠️ Tools Built in 2026
@@ -23,4 +25,4 @@ Full-stack engineer building scalable systems. Shipping production-ready tools.
 
 ---
 
-*Currently open to Summer 2026 internship opportunities*
+*Open to full-time Software Engineer roles after December 2026 graduation.*
